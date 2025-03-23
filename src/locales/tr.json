@@ -1,0 +1,12 @@
+{
+    "menu": {
+      "products": "Ürünlerimiz",
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    },
+    "categories": {
+      "basalt": "Bazalt",
+      "granite": "Granit",
+      "travertine": "Traverten"
+    }
+  }

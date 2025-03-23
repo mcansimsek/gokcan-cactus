@@ -1,0 +1,12 @@
+{
+    "menu": {
+      "products": "Products",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "categories": {
+      "basalt": "Basalt",
+      "granite": "Granite",
+      "travertine": "Travertine"
+    }
+  }
